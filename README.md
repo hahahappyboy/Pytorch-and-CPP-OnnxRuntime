@@ -1,5 +1,4 @@
 # Pytorch-and-CPP-OnnxRuntime
-@[TOC](Pytorch和C++OnnxRuntime使用方法)
 
 ## 写在前面
 最近有个需求要将Pytorch训练好的模型迁移到C++上去使用，再网上查了一些资料结合上自己的实际情况最终使用onnxruntime迁移成功。借此机会给大家分享一下，**若有写的不对的地方请大家批评指正**！下面给大家看看运行结果
