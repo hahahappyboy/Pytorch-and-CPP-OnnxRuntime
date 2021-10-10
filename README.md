@@ -17,7 +17,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3d31cdad1e414fc891b03ee3a582efb0.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAaWlpaWlpaW1w,size_16,color_FFFFFF,t_70,g_se,x_16)
 
 **具体细节请看：**
-[https://editor.csdn.net/md/?articleId=120621682](https://editor.csdn.net/md/?articleId=120621682)
+[https://blog.csdn.net/iiiiiiimp/article/details/120621682](https://blog.csdn.net/iiiiiiimp/article/details/120621682)
 
 **训练好的模型以及导出的onnx模型在这：**
 链接：[https://pan.baidu.com/s/1m35zq0wqTeaOZ5rj2L2dKA](https://pan.baidu.com/s/1m35zq0wqTeaOZ5rj2L2dKA) 
